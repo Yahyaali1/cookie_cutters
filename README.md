@@ -5,7 +5,7 @@ ___
 ###Contribution Guidelines
 ___
 - Add new directory under relevant language eg python -> flask -> <template-name-directory>
-- Add a readme file under the template directory eg TEMPLATE_NAME.md
+- Add a readme file under the template directory
   - Add 120 words description for the project structure
   - Add at least 3 Pro and 3 Cons
   - Add your background and info
