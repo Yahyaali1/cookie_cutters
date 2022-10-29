@@ -1,0 +1,14 @@
+{
+  "name": "small_mvp_server",
+  "version": "1.0.0",
+  "description": "Basic server structure for quickly testing concepts",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
